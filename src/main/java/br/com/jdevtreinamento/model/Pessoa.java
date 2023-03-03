@@ -1,4 +1,4 @@
-package model;
+package br.com.jdevtreinamento.model;
 
 import java.io.Serializable;
 
